@@ -17,13 +17,21 @@
 
 排列顺序: `最新↑` ![](https://img.shields.io/badge/进行中-blue) ![](https://img.shields.io/badge/已放弃-red) ![](https://img.shields.io/badge/几乎弃坑-orange) 
 
+### XXXYouWant 系列插件
+
 | 名称 | 链接 | 星标 | 下载量(仅插件) |
 | ---- | ---- | ---- | ---- |
-| 自定义头衔 | [![SpecialTitleYouWant](https://img.shields.io/badge/SpecialTitleYouWant-blue)](https://github.com/MrXiaoM/SpecialTitleYouWant) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/SpecialTitleYouWant) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/SpecialTitleYouWant/total)](https://github.com/MrXiaoM//SpecialTitleYouWant) |
-积木编程 | [![BlocklyMirai](https://img.shields.io/badge/BlocklyMirai-orange)](https://github.com/MrXiaoM/BlocklyMirai) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/BlocklyMirai) | |
-保姆级文档 | [![mirai-docs](https://img.shields.io/badge/mirai--docs-blue)](https://github.com/MrXiaoM/mirai-docs) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/mirai-docs) | |
-uselessのbot | [![Natsuko](https://img.shields.io/badge/Natsuko-red)](https://github.com/MrXiaoM/Natsuko) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/Natsuko) | |
-uselessのutils | [![MiraiUtils](https://img.shields.io/badge/Miraitils-red)](https://github.com/MrXiaoM/MiraiUtils) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/MiraiUtils) | |
+| 抽老婆 | [![WifeYouWant](https://img.shields.io/badge/WifeYouWant-blue)](https://github.com/MrXiaoM/WifeYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/WifeYouWant)](https://github.com/MrXiaoM/WifeYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/WifeYouWant/total)](https://github.com/MrXiaoM/WifeYouWant/releases) |
+| 自定义头衔 | [![SpecialTitleYouWant](https://img.shields.io/badge/SpecialTitleYouWant-blue)](https://github.com/MrXiaoM/SpecialTitleYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/SpecialTitleYouWant)](https://github.com/MrXiaoM/SpecialTitleYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/SpecialTitleYouWant/total)](https://github.com/MrXiaoM/SpecialTitleYouWant/releases) |
+
+### 未分类
+
+| 名称 | 链接 | 星标 |
+| ---- | ---- | ---- |
+积木编程 | [![BlocklyMirai](https://img.shields.io/badge/BlocklyMirai-orange)](https://github.com/MrXiaoM/BlocklyMirai) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/BlocklyMirai) |
+保姆级文档 | [![mirai-docs](https://img.shields.io/badge/mirai--docs-blue)](https://github.com/MrXiaoM/mirai-docs) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/mirai-docs) |
+uselessのbot | [![Natsuko](https://img.shields.io/badge/Natsuko-red)](https://github.com/MrXiaoM/Natsuko) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/Natsuko) |
+uselessのutils | [![MiraiUtils](https://img.shields.io/badge/Miraitils-red)](https://github.com/MrXiaoM/MiraiUtils) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/MiraiUtils) |
 
 很少可以直接用的 mirai-console 插件是因为我真的想不到要写什么好 (
 
