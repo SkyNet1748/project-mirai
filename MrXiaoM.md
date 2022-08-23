@@ -3,7 +3,7 @@
 
 # 卷，使劲卷!
 
-一只自学java三年的业余miraier，在这里默默地看着大佬们装13
+是一只自学 java 四年的业余 miraier。
 
 编程是为了干什么？毫不避讳地说，是为了偷懒，但同时也能陶冶情操。
 
@@ -19,8 +19,9 @@
 
 ### XXXYouWant 系列插件
 
-| 名称 | 链接 | 星标 | 下载量(仅插件) |
+| 名称 | 链接 | 星标 | 下载量 |
 | ---- | ---- | ---- | ---- |
+| 随机萝莉图 | [![LoliYouWant](https://img.shields.io/badge/LoliYouWant-blue)](https://github.com/MrXiaoM/LoliYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/LoliYouWant)](https://github.com/MrXiaoM/LoliYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/LoliYouWant/total)](https://github.com/MrXiaoM/LoliYouWant/releases) |
 | 抽老婆 | [![WifeYouWant](https://img.shields.io/badge/WifeYouWant-blue)](https://github.com/MrXiaoM/WifeYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/WifeYouWant)](https://github.com/MrXiaoM/WifeYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/WifeYouWant/total)](https://github.com/MrXiaoM/WifeYouWant/releases) |
 | 自定义头衔 | [![SpecialTitleYouWant](https://img.shields.io/badge/SpecialTitleYouWant-blue)](https://github.com/MrXiaoM/SpecialTitleYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/SpecialTitleYouWant)](https://github.com/MrXiaoM/SpecialTitleYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/SpecialTitleYouWant/total)](https://github.com/MrXiaoM/SpecialTitleYouWant/releases) |
 
@@ -32,7 +33,5 @@
 保姆级文档 | [![mirai-docs](https://img.shields.io/badge/mirai--docs-blue)](https://github.com/MrXiaoM/mirai-docs) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/mirai-docs) |
 uselessのbot | [![Natsuko](https://img.shields.io/badge/Natsuko-red)](https://github.com/MrXiaoM/Natsuko) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/Natsuko) |
 uselessのutils | [![MiraiUtils](https://img.shields.io/badge/Miraitils-red)](https://github.com/MrXiaoM/MiraiUtils) | ![Stars](https://img.shields.io/github/stars/MrXiaoM/MiraiUtils) |
-
-很少可以直接用的 mirai-console 插件是因为我真的想不到要写什么好 (
 
 ----
