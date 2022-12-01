@@ -31,8 +31,14 @@
 | 抽老婆 | [![WifeYouWant](https://img.shields.io/badge/WifeYouWant-blue)](https://github.com/MrXiaoM/WifeYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/WifeYouWant)](https://github.com/MrXiaoM/WifeYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/WifeYouWant/total)](https://github.com/MrXiaoM/WifeYouWant/releases) |
 | 自定义头衔 | [![SpecialTitleYouWant](https://img.shields.io/badge/SpecialTitleYouWant-blue)](https://github.com/MrXiaoM/SpecialTitleYouWant) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/SpecialTitleYouWant)](https://github.com/MrXiaoM/SpecialTitleYouWant/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/SpecialTitleYouWant/total)](https://github.com/MrXiaoM/SpecialTitleYouWant/releases) |
 
-### 便民服务
+### 基础设施
 
+| 名称 | 链接 | 星标 | 下载量 |
+| ---- | ---- | ---- | ---- |
+| 每日签到 | [![MiraiDaillySign](https://img.shields.io/badge/MiraiDailySign-blue)](https://github.com/MrXiaoM/MiraiDailySign) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/MiraiDailySign)](https://github.com/MrXiaoM/MiraiDailySign/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/MiraiDailySign/total)](https://github.com/MrXiaoM/MiraiDailySign/releases) |
+| 梅花娘重制版 | [![Plum](https://img.shields.io/badge/Plum-blue)](https://github.com/MrXiaoM/Plum) | [![Stars](https://img.shields.io/github/stars/MrXiaoM/Plum)](https://github.com/MrXiaoM/Plum/stargazers) | [![Downloads](https://shields.io/github/downloads/MrXiaoM/Plum/total)](https://github.com/MrXiaoM/Plum/releases) |
+
+### 便民服务
 
 | 名称 | 链接 | 星标 | 下载量 |
 | ---- | ---- | ---- | ---- |
